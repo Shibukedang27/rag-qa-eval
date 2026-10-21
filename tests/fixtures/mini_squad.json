@@ -1,0 +1,1123 @@
+{
+ "version": "v2.0",
+ "data": [
+  {
+   "title": "Normans",
+   "paragraphs": [
+    {
+     "context": "The Normans (Norman: Nourmands; French: Normands; Latin: Normanni) were the people who in the 10th and 11th centuries gave their name to Normandy, a region in France. They were descended from Norse (\"Norman\" comes from \"Norseman\") raiders and pirates from Denmark, Iceland and Norway who, under their leader Rollo, agreed to swear fealty to King Charles III of West Francia. Through generations of assimilation and mixing with the native Frankish and Roman-Gaulish populations, their descendants would gradually merge with the Carolingian-based cultures of West Francia. The distinct cultural and ethnic identity of the Normans emerged initially in the first half of the 10th century, and it continued to evolve over the succeeding centuries.",
+     "qas": [
+      {
+       "question": "In what country is Normandy located?",
+       "id": "56ddde6b9a695914005b9628",
+       "answers": [
+        {
+         "text": "France",
+         "answer_start": 159
+        },
+        {
+         "text": "France",
+         "answer_start": 159
+        },
+        {
+         "text": "France",
+         "answer_start": 159
+        },
+        {
+         "text": "France",
+         "answer_start": 159
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "question": "When were the Normans in Normandy?",
+       "id": "56ddde6b9a695914005b9629",
+       "answers": [
+        {
+         "text": "10th and 11th centuries",
+         "answer_start": 94
+        },
+        {
+         "text": "in the 10th and 11th centuries",
+         "answer_start": 87
+        },
+        {
+         "text": "10th and 11th centuries",
+         "answer_start": 94
+        },
+        {
+         "text": "10th and 11th centuries",
+         "answer_start": 94
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "question": "From which countries did the Norse originate?",
+       "id": "56ddde6b9a695914005b962a",
+       "answers": [
+        {
+         "text": "Denmark, Iceland and Norway",
+         "answer_start": 256
+        },
+        {
+         "text": "Denmark, Iceland and Norway",
+         "answer_start": 256
+        },
+        {
+         "text": "Denmark, Iceland and Norway",
+         "answer_start": 256
+        },
+        {
+         "text": "Denmark, Iceland and Norway",
+         "answer_start": 256
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "question": "Who was the Norse leader?",
+       "id": "56ddde6b9a695914005b962b",
+       "answers": [
+        {
+         "text": "Rollo",
+         "answer_start": 308
+        },
+        {
+         "text": "Rollo",
+         "answer_start": 308
+        },
+        {
+         "text": "Rollo",
+         "answer_start": 308
+        },
+        {
+         "text": "Rollo",
+         "answer_start": 308
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "question": "What century did the Normans first gain their separate identity?",
+       "id": "56ddde6b9a695914005b962c",
+       "answers": [
+        {
+         "text": "10th century",
+         "answer_start": 671
+        },
+        {
+         "text": "the first half of the 10th century",
+         "answer_start": 649
+        },
+        {
+         "text": "10th",
+         "answer_start": 671
+        },
+        {
+         "text": "10th",
+         "answer_start": 671
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "plausible_answers": [
+        {
+         "text": "Normans",
+         "answer_start": 4
+        }
+       ],
+       "question": "Who gave their name to Normandy in the 1000's and 1100's",
+       "id": "5ad39d53604f3c001a3fe8d1",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "plausible_answers": [
+        {
+         "text": "Normandy",
+         "answer_start": 137
+        }
+       ],
+       "question": "What is France a region of?",
+       "id": "5ad39d53604f3c001a3fe8d2",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "plausible_answers": [
+        {
+         "text": "Rollo",
+         "answer_start": 308
+        }
+       ],
+       "question": "Who did King Charles III swear fealty to?",
+       "id": "5ad39d53604f3c001a3fe8d3",
+       "answers": [],
+       "is_impossible": true
+      }
+     ]
+    },
+    {
+     "context": "The Norman dynasty had a major political, cultural and military impact on medieval Europe and even the Near East. The Normans were famed for their martial spirit and eventually for their Christian piety, becoming exponents of the Catholic orthodoxy into which they assimilated. They adopted the Gallo-Romance language of the Frankish land they settled, their dialect becoming known as Norman, Normaund or Norman French, an important literary language. The Duchy of Normandy, which they formed by treaty with the French crown, was a great fief of medieval France, and under Richard I of Normandy was forged into a cohesive and formidable principality in feudal tenure. The Normans are noted both for their culture, such as their unique Romanesque architecture and musical traditions, and for their significant military accomplishments and innovations. Norman adventurers founded the Kingdom of Sicily under Roger II after conquering southern Italy on the Saracens and Byzantines, and an expedition on behalf of their duke, William the Conqueror, led to the Norman conquest of England at the Battle of Hastings in 1066. Norman cultural and military influence spread from these new European centres to the Crusader states of the Near East, where their prince Bohemond I founded the Principality of Antioch in the Levant, to Scotland and Wales in Great Britain, to Ireland, and to the coasts of north Africa and the Canary Islands.",
+     "qas": [
+      {
+       "question": "Who was the duke in the battle of Hastings?",
+       "id": "56dddf4066d3e219004dad5f",
+       "answers": [
+        {
+         "text": "William the Conqueror",
+         "answer_start": 1022
+        },
+        {
+         "text": "William the Conqueror",
+         "answer_start": 1022
+        },
+        {
+         "text": "William the Conqueror",
+         "answer_start": 1022
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "question": "Who ruled the duchy of Normandy",
+       "id": "56dddf4066d3e219004dad60",
+       "answers": [
+        {
+         "text": "Richard I",
+         "answer_start": 573
+        },
+        {
+         "text": "Richard I",
+         "answer_start": 573
+        },
+        {
+         "text": "Richard I",
+         "answer_start": 573
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "question": "What religion were the Normans",
+       "id": "56dddf4066d3e219004dad61",
+       "answers": [
+        {
+         "text": "Catholic",
+         "answer_start": 230
+        },
+        {
+         "text": "Catholic orthodoxy",
+         "answer_start": 230
+        },
+        {
+         "text": "Catholic",
+         "answer_start": 230
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "plausible_answers": [
+        {
+         "text": "political, cultural and military",
+         "answer_start": 31
+        }
+       ],
+       "question": "What type of major impact did the Norman dynasty have on modern Europe?",
+       "id": "5ad3a266604f3c001a3fea27",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "plausible_answers": [
+        {
+         "text": "Normans",
+         "answer_start": 118
+        }
+       ],
+       "question": "Who was famed for their Christian spirit?",
+       "id": "5ad3a266604f3c001a3fea28",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "plausible_answers": [
+        {
+         "text": "Normans",
+         "answer_start": 118
+        }
+       ],
+       "question": "Who assimilted the Roman language?",
+       "id": "5ad3a266604f3c001a3fea29",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "plausible_answers": [
+        {
+         "text": "Richard I",
+         "answer_start": 573
+        }
+       ],
+       "question": "Who ruled the country of Normandy?",
+       "id": "5ad3a266604f3c001a3fea2a",
+       "answers": [],
+       "is_impossible": true
+      },
+      {
+       "plausible_answers": [
+        {
+         "text": "Antioch",
+         "answer_start": 1295
+        }
+       ],
+       "question": "What principality did William the conquerer found?",
+       "id": "5ad3a266604f3c001a3fea2b",
+       "answers": [],
+       "is_impossible": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Oxygen",
+   "paragraphs": [
+    {
+     "context": "Oxygen is a chemical element with symbol O and atomic number 8. It is a member of the chalcogen group on the periodic table and is a highly reactive nonmetal and oxidizing agent that readily forms compounds (notably oxides) with most elements. By mass, oxygen is the third-most abundant element in the universe, after hydrogen and helium. At standard temperature and pressure, two atoms of the element bind to form dioxygen, a colorless and odorless diatomic gas with the formula O\n2. Diatomic oxygen gas constitutes 20.8% of the Earth's atmosphere. However, monitoring of atmospheric oxygen levels show a global downward trend, because of fossil-fuel burning. Oxygen is the most abundant element by mass in the Earth's crust as part of oxide compounds such as silicon dioxide, making up almost half of the crust's mass.",
+     "qas": [
+      {
+       "question": "The atomic number of the periodic table for oxygen?",
+       "id": "571a484210f8ca1400304fbd",
+       "answers": [
+        {
+         "text": "8",
+         "answer_start": 61
+        },
+        {
+         "text": "8",
+         "answer_start": 61
+        },
+        {
+         "text": "8",
+         "answer_start": 61
+        },
+        {
+         "text": "8",
+         "answer_start": 61
+        },
+        {
+         "text": "8",
+         "answer_start": 61
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "question": "What is the second most abundant element?",
+       "id": "571a484210f8ca1400304fbe",
+       "answers": [
+        {
+         "text": "helium",
+         "answer_start": 331
+        },
+        {
+         "text": "helium",
+         "answer_start": 331
+        },
+        {
+         "text": "helium",
+         "answer_start": 331
+        },
+        {
+         "text": "helium",
+         "answer_start": 331
+        },
+        {
+         "text": "helium",
+         "answer_start": 331
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "question": "Which gas makes up 20.8% of the Earth's atmosphere?",
+       "id": "571a484210f8ca1400304fbf",
+       "answers": [
+        {
+         "text": "Diatomic oxygen",
+         "answer_start": 485
+        },
+        {
+         "text": "Diatomic oxygen",
+         "answer_start": 485
+        },
+        {
+         "text": "Diatomic oxygen gas",
+         "answer_start": 485
+        },
+        {
+         "text": "Diatomic oxygen",
+         "answer_start": 485
+        },
+        {
+         "text": "Diatomic oxygen gas",
+         "answer_start": 485
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "question": "How many atoms combine to form dioxygen?",
+       "id": "571a484210f8ca1400304fc0",
+       "answers": [
+        {
+         "text": "two atoms",
+         "answer_start": 377
+        },
+        {
+         "text": "two",
+         "answer_start": 377
+        },
+        {
+         "text": "two",
+         "answer_start": 377
+        },
+        {
+         "text": "two",
+         "answer_start": 377
+        },
+        {
+         "text": "two",
+         "answer_start": 377
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "question": "Roughly, how much oxygen makes up the Earth crust?",
+       "id": "571a484210f8ca1400304fc1",
+       "answers": [
+        {
+         "text": "almost half",
+         "answer_start": 788
+        },
+        {
+         "text": "almost half",
+         "answer_start": 788
+        },
+        {
+         "text": "half",
+         "answer_start": 795
+        },
+        {
+         "text": "almost half",
+         "answer_start": 788
+        },
+        {
+         "text": "half",
+         "answer_start": 795
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "question": "What is the atomic number of the element oxygen?",
+       "id": "571c3a685efbb31900334db2",
+       "answers": [
+        {
+         "text": "8",
+         "answer_start": 61
+        },
+        {
+         "text": "8",
+         "answer_start": 61
+        },
+        {
+         "text": "8",
+         "answer_start": 61
+        },
+        {
+         "text": "8",
+         "answer_start": 61
+        },
+        {
+         "text": "8",
+         "answer_start": 61
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "question": "Of what group in the periodic table is oxygen a member?",
+       "id": "571c3a685efbb31900334db3",
+       "answers": [
+        {
+         "text": "chalcogen",
+         "answer_start": 86
+        },
+        {
+         "text": "chalcogen",
+         "answer_start": 86
+        },
+        {
+         "text": "chalcogen",
+         "answer_start": 86
+        },
+        {
+         "text": "chalcogen",
+         "answer_start": 86
+        },
+        {
+         "text": "the chalcogen group",
+         "answer_start": 82
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "question": "What type of compounds does oxygen most commonly form?",
+       "id": "571c3a685efbb31900334db4",
+       "answers": [
+        {
+         "text": "oxides",
+         "answer_start": 216
+        },
+        {
+         "text": "oxides",
+         "answer_start": 216
+        },
+        {
+         "text": "oxides",
+         "answer_start": 216
+        },
+        {
+         "text": "oxide compounds",
+         "answer_start": 737
+        },
+        {
+         "text": "oxide",
+         "answer_start": 737
+        }
+       ],
+       "is_impossible": false
+      }
+     ]
+    },
+    {
+     "context": "Many major classes of organic molecules in living organisms, such as proteins, nucleic acids, carbohydrates, and fats, contain oxygen, as do the major inorganic compounds that are constituents of animal shells, teeth, and bone. Most of the mass of living organisms is oxygen as it is a part of water, the major constituent of lifeforms. Oxygen is used in cellular respiration and released by photosynthesis, which uses the energy of sunlight to produce oxygen from water. It is too chemically reactive to remain a free element in air without being continuously replenished by the photosynthetic action of living organisms. Another form (allotrope) of oxygen, ozone (O\n3), strongly absorbs UVB radiation and consequently the high-altitude ozone layer helps protect the biosphere from ultraviolet radiation, but is a pollutant near the surface where it is a by-product of smog. At even higher low earth orbit altitudes, sufficient atomic oxygen is present to cause erosion for spacecraft.",
+     "qas": [
+      {
+       "question": "Oxygen is released in cellular respiration by?",
+       "id": "571a49de4faf5e1900b8a94a",
+       "answers": [
+        {
+         "text": "photosynthesis",
+         "answer_start": 392
+        },
+        {
+         "text": "photosynthesis",
+         "answer_start": 392
+        },
+        {
+         "text": "photosynthesis",
+         "answer_start": 392
+        },
+        {
+         "text": "photosynthesis",
+         "answer_start": 392
+        },
+        {
+         "text": "photosynthesis",
+         "answer_start": 392
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "question": "Photosynthesis uses which energy to for oxygen from water?",
+       "id": "571a49de4faf5e1900b8a94b",
+       "answers": [
+        {
+         "text": "sunlight",
+         "answer_start": 433
+        },
+        {
+         "text": "sunlight",
+         "answer_start": 433
+        },
+        {
+         "text": "sunlight",
+         "answer_start": 433
+        },
+        {
+         "text": "the energy of sunlight",
+         "answer_start": 419
+        },
+        {
+         "text": "sunlight",
+         "answer_start": 433
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "question": "_____ Helps the biospher from UV.",
+       "id": "571a49de4faf5e1900b8a94c",
+       "answers": [
+        {
+         "text": "high-altitude ozone layer",
+         "answer_start": 724
+        },
+        {
+         "text": "ozone",
+         "answer_start": 659
+        },
+        {
+         "text": "ozone layer",
+         "answer_start": 738
+        },
+        {
+         "text": "ozone",
+         "answer_start": 659
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "question": "What element is found in most organic organisms?",
+       "id": "571c3c47dd7acb1400e4c09c",
+       "answers": [
+        {
+         "text": "oxygen",
+         "answer_start": 127
+        },
+        {
+         "text": "oxygen",
+         "answer_start": 268
+        },
+        {
+         "text": "oxygen",
+         "answer_start": 127
+        },
+        {
+         "text": "oxygen",
+         "answer_start": 127
+        },
+        {
+         "text": "oxygen",
+         "answer_start": 268
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "question": "In what major portion of living things is oxygen found?",
+       "id": "571c3c47dd7acb1400e4c09d",
+       "answers": [
+        {
+         "text": "water",
+         "answer_start": 294
+        },
+        {
+         "text": "water",
+         "answer_start": 294
+        },
+        {
+         "text": "organic molecules",
+         "answer_start": 22
+        },
+        {
+         "text": "inorganic compounds",
+         "answer_start": 151
+        },
+        {
+         "text": "mass",
+         "answer_start": 240
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "question": "What life process produces oxygen in the presence of light?",
+       "id": "571c3c47dd7acb1400e4c09e",
+       "answers": [
+        {
+         "text": "photosynthesis",
+         "answer_start": 392
+        },
+        {
+         "text": "living organisms",
+         "answer_start": 605
+        },
+        {
+         "text": "photosynthesis",
+         "answer_start": 392
+        },
+        {
+         "text": "photosynthesis",
+         "answer_start": 392
+        },
+        {
+         "text": "photosynthesis",
+         "answer_start": 392
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "question": "From what does photosynthesis get oxygen?",
+       "id": "571c3c47dd7acb1400e4c09f",
+       "answers": [
+        {
+         "text": "water",
+         "answer_start": 465
+        },
+        {
+         "text": "water",
+         "answer_start": 465
+        },
+        {
+         "text": "water",
+         "answer_start": 465
+        },
+        {
+         "text": "water",
+         "answer_start": 465
+        },
+        {
+         "text": "water",
+         "answer_start": 465
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "question": "What form of oxygen is composed of three oxygen atoms?",
+       "id": "571c3c47dd7acb1400e4c0a0",
+       "answers": [
+        {
+         "text": "ozone",
+         "answer_start": 738
+        },
+        {
+         "text": "ozone",
+         "answer_start": 659
+        },
+        {
+         "text": "ozone",
+         "answer_start": 659
+        },
+        {
+         "text": "ozone",
+         "answer_start": 659
+        }
+       ],
+       "is_impossible": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Rhine",
+   "paragraphs": [
+    {
+     "context": "The Rhine (Romansh: Rein, German: Rhein, French: le Rhin, Dutch: Rijn) is a European river that begins in the Swiss canton of Graubünden in the southeastern Swiss Alps, forms part of the Swiss-Austrian, Swiss-Liechtenstein border, Swiss-German and then the Franco-German border, then flows through the Rhineland and eventually empties into the North Sea in the Netherlands. The biggest city on the river Rhine is Cologne, Germany with a population of more than 1,050,000 people. It is the second-longest river in Central and Western Europe (after the Danube), at about 1,230 km (760 mi),[note 2][note 1] with an average discharge of about 2,900 m3/s (100,000 cu ft/s).",
+     "qas": [
+      {
+       "question": "Where does the Rhine empty?",
+       "id": "572f5533a23a5019007fc55c",
+       "answers": [
+        {
+         "text": "North Sea",
+         "answer_start": 344
+        },
+        {
+         "text": "the North Sea in the Netherlands",
+         "answer_start": 340
+        },
+        {
+         "text": "North Sea",
+         "answer_start": 344
+        },
+        {
+         "text": "North Sea",
+         "answer_start": 344
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "question": "What is the largest city the Rhine runs through? ",
+       "id": "572f5533a23a5019007fc55d",
+       "answers": [
+        {
+         "text": "Cologne, Germany",
+         "answer_start": 413
+        },
+        {
+         "text": "Cologne, Germany",
+         "answer_start": 413
+        },
+        {
+         "text": "Cologne",
+         "answer_start": 413
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "question": "What river is larger than the Rhine?",
+       "id": "572f5533a23a5019007fc55e",
+       "answers": [
+        {
+         "text": "Danube",
+         "answer_start": 551
+        },
+        {
+         "text": "the Danube",
+         "answer_start": 547
+        },
+        {
+         "text": "Danube",
+         "answer_start": 551
+        },
+        {
+         "text": "Danube",
+         "answer_start": 551
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "question": "How long is the Rhine?",
+       "id": "572f5533a23a5019007fc55f",
+       "answers": [
+        {
+         "text": "1,230 km (760 mi)",
+         "answer_start": 569
+        },
+        {
+         "text": "1,230 km (760 mi)",
+         "answer_start": 569
+        },
+        {
+         "text": "1,230 km",
+         "answer_start": 569
+        },
+        {
+         "text": "1,230 km",
+         "answer_start": 569
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "question": "Where is the Rhine? ",
+       "id": "572fe1d404bcaa1900d76e37",
+       "answers": [
+        {
+         "text": "Europe",
+         "answer_start": 533
+        },
+        {
+         "text": "Central and Western Europe",
+         "answer_start": 513
+        },
+        {
+         "text": "Germany",
+         "answer_start": 422
+        },
+        {
+         "text": "Germany",
+         "answer_start": 422
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "question": "What country does the Rhine empty?",
+       "id": "572fe1d404bcaa1900d76e3a",
+       "answers": [
+        {
+         "text": "Netherlands",
+         "answer_start": 361
+        },
+        {
+         "text": "Germany",
+         "answer_start": 422
+        },
+        {
+         "text": "Netherlands",
+         "answer_start": 361
+        },
+        {
+         "text": "Netherlands",
+         "answer_start": 361
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "question": "How long is the Rhine? ",
+       "id": "572fe1d404bcaa1900d76e3b",
+       "answers": [
+        {
+         "text": "1,230 km",
+         "answer_start": 569
+        },
+        {
+         "text": "1,230 km (760 mi)",
+         "answer_start": 569
+        },
+        {
+         "text": "1,230 km",
+         "answer_start": 569
+        },
+        {
+         "text": "1,230 km",
+         "answer_start": 569
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "plausible_answers": [
+        {
+         "text": "the Netherlands",
+         "answer_start": 357
+        }
+       ],
+       "question": "What is the smallest nation that the Rhine runs through?",
+       "id": "5ad25e17d7d075001a428f12",
+       "answers": [],
+       "is_impossible": true
+      }
+     ]
+    },
+    {
+     "context": "The variant forms of the name of the Rhine in modern languages are all derived from the Gaulish name Rēnos, which was adapted in Roman-era geography (1st century BC) as Greek Ῥῆνος (Rhēnos), Latin Rhenus.[note 3] The spelling with Rh- in English Rhine as well as in German Rhein and French Rhin is due to the influence of Greek orthography, while the vocalisation -i- is due to the Proto-Germanic adoption of the Gaulish name as *Rīnaz, via Old Frankish giving Old English Rín, Old High German Rīn, Dutch Rijn (formerly also spelled Rhijn)). The diphthong in modern German Rhein (also adopted in Romansh Rein, Rain) is a Central German development of the early modern period, the Alemannic name Rī(n) retaining the older vocalism,[note 4] as does Ripuarian Rhing, while Palatine has diphthongized Rhei, Rhoi. Spanish is with French in adopting the Germanic vocalism Rin-, while Italian, Occitan and Portuguese retain the Latin Ren-.",
+     "qas": [
+      {
+       "question": "Where does the name Rhine derive from? ",
+       "id": "572f55e8a23a5019007fc56b",
+       "answers": [
+        {
+         "text": "Gaulish name Rēnos",
+         "answer_start": 88
+        },
+        {
+         "text": "Rēnos",
+         "answer_start": 101
+        },
+        {
+         "text": "the Gaulish name Rēnos",
+         "answer_start": 84
+        },
+        {
+         "text": "Rēnos",
+         "answer_start": 101
+        },
+        {
+         "text": "Rēnos",
+         "answer_start": 101
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "question": "What is the French name for the Rhine? ",
+       "id": "572f55e8a23a5019007fc56c",
+       "answers": [
+        {
+         "text": "Rhin",
+         "answer_start": 290
+        },
+        {
+         "text": "Rhin",
+         "answer_start": 290
+        },
+        {
+         "text": "Rhin",
+         "answer_start": 290
+        },
+        {
+         "text": "Rhin",
+         "answer_start": 290
+        },
+        {
+         "text": "Rhin",
+         "answer_start": 290
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "question": "What is the Proto-Germanic adaptation of the name of the Rhine?",
+       "id": "572f55e8a23a5019007fc56d",
+       "answers": [
+        {
+         "text": "Rīnaz",
+         "answer_start": 430
+        },
+        {
+         "text": "Rīnaz",
+         "answer_start": 430
+        },
+        {
+         "text": "*Rīnaz",
+         "answer_start": 429
+        },
+        {
+         "text": "Rīnaz",
+         "answer_start": 430
+        },
+        {
+         "text": "Rīnaz",
+         "answer_start": 430
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "question": "What century did the name of the Rhine come from?",
+       "id": "572f55e8a23a5019007fc56e",
+       "answers": [
+        {
+         "text": "1st century BC",
+         "answer_start": 150
+        },
+        {
+         "text": "1st",
+         "answer_start": 150
+        },
+        {
+         "text": "Roman-era",
+         "answer_start": 129
+        },
+        {
+         "text": "1st century BC",
+         "answer_start": 150
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "question": "What does the name The Rhine come from? ",
+       "id": "572fe288a23a5019007fcad7",
+       "answers": [
+        {
+         "text": "Gaulish name Rēnos",
+         "answer_start": 88
+        },
+        {
+         "text": "Rhenus",
+         "answer_start": 197
+        },
+        {
+         "text": "the Gaulish name Rēnos",
+         "answer_start": 84
+        },
+        {
+         "text": "1st century BC",
+         "answer_start": 150
+        },
+        {
+         "text": "Rēnos",
+         "answer_start": 101
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "question": "What is the Rhine called in French?",
+       "id": "572fe288a23a5019007fcad8",
+       "answers": [
+        {
+         "text": "Rhin",
+         "answer_start": 290
+        },
+        {
+         "text": "Rhin",
+         "answer_start": 290
+        },
+        {
+         "text": "Rhin",
+         "answer_start": 290
+        },
+        {
+         "text": "Rhin",
+         "answer_start": 290
+        },
+        {
+         "text": "Rhin",
+         "answer_start": 290
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "question": "What is the Proto-Germanic adoption of the Gaulish name of the Rhine?",
+       "id": "572fe288a23a5019007fcad9",
+       "answers": [
+        {
+         "text": "Rīnaz",
+         "answer_start": 430
+        },
+        {
+         "text": "Rīnaz",
+         "answer_start": 430
+        },
+        {
+         "text": "Rīnaz",
+         "answer_start": 430
+        },
+        {
+         "text": "Rīnaz",
+         "answer_start": 430
+        },
+        {
+         "text": "Rīnaz",
+         "answer_start": 430
+        }
+       ],
+       "is_impossible": false
+      },
+      {
+       "question": "What is the Rhine called in Dutch?",
+       "id": "572fe288a23a5019007fcada",
+       "answers": [
+        {
+         "text": "Rijn",
+         "answer_start": 505
+        },
+        {
+         "text": "Rijn",
+         "answer_start": 505
+        },
+        {
+         "text": "Rijn",
+         "answer_start": 505
+        },
+        {
+         "text": "Rijn",
+         "answer_start": 505
+        },
+        {
+         "text": "Rijn",
+         "answer_start": 505
+        }
+       ],
+       "is_impossible": false
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

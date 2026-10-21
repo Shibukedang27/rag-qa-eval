@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rag-qa-eval"
+version = "0.1.0"
+description = "Retrieval-augmented question answering on SQuAD 2.0 with a measured comparison of BM25, dense and hybrid retrieval"
+requires-python = ">=3.10"
+authors = [{ name = "Mithilesh Kodali" }]
+license = { text = "MIT" }
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src", "."]
+testpaths = ["tests"]
